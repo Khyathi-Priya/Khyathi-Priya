@@ -1,16 +1,112 @@
-## Hi there 👋
+# Hi, I'm Khyathi Priya Kamireddi 👋
 
-<!--
-**Khyathi-Priya/Khyathi-Priya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & ML Undergraduate | Aspiring AI/ML Engineer | Exploring Generative AI & Agentic AI
 
-Here are some ideas to get you started:
+I'm a final-year B.Tech student in Computer Science Engineering (AI & ML) at JNTUH University College of Engineering Sultanpur. I enjoy building intelligent systems that solve real-world problems using Machine Learning, Deep Learning, and AI-driven technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests span across Machine Learning, Generative AI, Agentic AI, MLOps, and Reinforcement Learning. I am passionate about developing practical AI applications and continuously exploring emerging technologies in the AI ecosystem.
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science Engineering (AI & ML)**
+JNTUH University College of Engineering Sultanpur
+
+---
+
+## 💡 Areas of Interest
+
+* Machine Learning
+* Deep Learning
+* Generative AI
+* Agentic AI
+* MLOps
+* Reinforcement Learning
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+
+* Python
+
+### Data Science & Machine Learning
+
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+
+### Computer Vision
+
+* OpenCV
+
+### Development & Deployment
+
+* Streamlit
+* Git
+* GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Agentic AI-Based Autonomous Cybersecurity System
+
+An intelligent cybersecurity solution that leverages Agentic AI principles to autonomously analyze, monitor, and respond to security-related events.
+
+### ⚙️ Predictive Maintenance System
+
+Developed during my training at BHEL, this project uses Machine Learning techniques to predict equipment failures and support proactive maintenance strategies.
+
+### ❤️ PulsePace – AI-Powered Emergency Assistance System
+
+Built during a hackathon at JNTUH University College of Engineering Sultanpur, PulsePace provides AI-assisted emergency support, voice-guided medical instructions, and location-sharing capabilities to improve emergency response.
+
+### 🖱️ AI Virtual Mouse
+
+A Computer Vision application that enables users to control mouse operations through hand gestures using OpenCV.
+
+### 🌊 Flood Risk Detection in India
+
+A Machine Learning-based system designed to assess and predict flood risks, supporting disaster preparedness and risk management.
+
+---
+
+## 💼 Experience
+
+### Project Trainee – BHEL
+
+Worked on a Predictive Maintenance system using Machine Learning techniques for industrial equipment, focusing on predictive analytics and maintenance optimization.
+
+---
+
+## 📜 Certifications
+
+* Introduction to Artificial Intelligence – LinkedIn Learning
+* Introduction to Prompt Engineering for Generative AI – LinkedIn Learning
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Machine Learning
+* Generative AI Applications
+* Agentic AI Systems
+* MLOps Fundamentals
+* Reinforcement Learning
+
+---
+
+## 🎯 Career Goal
+
+Aspiring to build a career as an AI/ML Engineer while expanding expertise in Generative AI and Agentic AI to develop intelligent, autonomous systems that create real-world impact.
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/khyathi-priya-kamireddi-83144a2b8](http://www.linkedin.com/in/khyathi-priya-kamireddi-83144a2b8)
+* GitHub: github.com/Khyathi-Priya
