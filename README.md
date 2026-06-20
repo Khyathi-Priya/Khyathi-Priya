@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khyathi Priya Kamireddi</h1>
 <h3 align="center">AI & ML Undergraduate | Aspiring AI/ML Engineer | Exploring Generative AI & Agentic AI</h3>
 
+Passionate about building AI-powered solutions using Machine Learning, Computer Vision, and emerging Generative AI technologies.
+
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue" />
   <img src="https://img.shields.io/badge/Generative%20AI-Learning-green" />
@@ -8,9 +10,6 @@
   <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-red" />
   <img src="https://img.shields.io/badge/Streamlit-Deployed-brightgreen" />
 </p>
-
-
-### AI & ML Undergraduate | Aspiring AI/ML Engineer | Exploring Generative AI & Agentic AI
 
 I'm a final-year B.Tech student in Computer Science Engineering (AI & ML) at JNTUH University College of Engineering Sultanpur. I enjoy building intelligent systems that solve real-world problems using Machine Learning, Deep Learning, and AI-driven technologies.
 
