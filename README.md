@@ -91,6 +91,8 @@ Worked on a Predictive Maintenance system using Machine Learning techniques for 
 
 * Introduction to Artificial Intelligence – LinkedIn Learning
 * Introduction to Prompt Engineering for Generative AI – LinkedIn Learning
+* Introduction to Generative AI - Google cloud
+* SQL (Basic) - Hacker rank
 
 ---
 
@@ -100,7 +102,7 @@ Worked on a Predictive Maintenance system using Machine Learning techniques for 
 * Generative AI Applications
 * Agentic AI Systems
 * MLOps Fundamentals
-* Reinforcement Learning
+* Devops
 
 ---
 
