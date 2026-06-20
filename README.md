@@ -22,7 +22,7 @@ JNTUH University College of Engineering Sultanpur
 * Generative AI
 * Agentic AI
 * MLOps
-* Reinforcement Learning
+* Computer vision
 
 ---
 
@@ -31,6 +31,9 @@ JNTUH University College of Engineering Sultanpur
 ### Programming
 
 * Python
+* HTML, CSS, JS
+* Java
+* C
 
 ### Data Science & Machine Learning
 
@@ -38,6 +41,8 @@ JNTUH University College of Engineering Sultanpur
 * Pandas
 * Scikit-learn
 * Matplotlib
+* Scipy
+* Statistics and Math
 
 ### Computer Vision
 
@@ -46,7 +51,6 @@ JNTUH University College of Engineering Sultanpur
 ### Development & Deployment
 
 * Streamlit
-* Git
 * GitHub
 
 ---
