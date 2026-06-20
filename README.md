@@ -132,5 +132,5 @@ Aspiring to build a career as an AI/ML Engineer while expanding expertise in Gen
 
 ## 📫 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/khyathi-priya-kamireddi-83144a2b8](http://www.linkedin.com/in/khyathi-priya-kamireddi-83144a2b8)
-* GitHub: github.com/Khyathi-Priya
+* LinkedIn: http://www.linkedin.com/in/khyathi-priya-kamireddi-83144a2b8
+* GitHub: https://github.com/Khyathi-Priya
