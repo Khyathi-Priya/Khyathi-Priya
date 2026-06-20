@@ -85,23 +85,23 @@ JNTUH University College of Engineering Sultanpur
 
 ## 🚀 Featured Projects
 
-### 🤖 Agentic AI-Based Autonomous Cybersecurity System (https://github.com/Khyathi-Priya/Agentic-AI-based-AUtonomous-Cyber-Security-System)
+### 🤖 Agentic AI-Based Autonomous Cybersecurity System(https://github.com/Khyathi-Priya/Agentic-AI-based-AUtonomous-Cyber-Security-System)
 
 An intelligent cybersecurity solution that leverages Agentic AI principles to autonomously analyze, monitor, and respond to security-related events.
 
-### ⚙️ AI based Predictive Maintenance System for machine failure detection (https://github.com/Khyathi-Priya/AI-based-Predictive-Maintenance-System-for-Machine-Failure-Detection)
+### ⚙️ AI based Predictive Maintenance System for machine failure detection(https://github.com/Khyathi-Priya/AI-based-Predictive-Maintenance-System-for-Machine-Failure-Detection)
 
 Developed during my training at BHEL, this project uses Machine Learning techniques to predict equipment failures and support proactive maintenance strategies.
 
-### ❤️ PulsePace – AI-Powered Emergency Assistance System (https://github.com/Khyathi-Priya/PulsePace-AI-Emergency-Assistance-System)
+### ❤️ PulsePace – AI-Powered Emergency Assistance System(https://github.com/Khyathi-Priya/PulsePace-AI-Emergency-Assistance-System)
 
 Built during a hackathon at JNTUH University College of Engineering Sultanpur, PulsePace provides AI-assisted emergency support, voice-guided medical instructions, and location-sharing capabilities to improve emergency response.
 
-### 🖱️ AI Virtual Mouse (https://github.com/Khyathi-Priya/AI-VIRTUAL-MOUSE)
+### 🖱️ AI Virtual Mouse(https://github.com/Khyathi-Priya/AI-VIRTUAL-MOUSE)
 
 A Computer Vision application that enables users to control mouse operations through hand gestures using OpenCV.
 
-### 🌊 Flood Risk Detection in India (https://github.com/Khyathi-Priya/Flood-Risk-detection-in-India)
+### 🌊 Flood Risk Detection in India(https://github.com/Khyathi-Priya/Flood-Risk-detection-in-India)
 
 A Machine Learning-based system designed to assess and predict flood risks, supporting disaster preparedness and risk management.
 
