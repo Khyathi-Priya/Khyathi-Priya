@@ -9,6 +9,15 @@
   <img src="https://img.shields.io/badge/Streamlit-Deployed-brightgreen" />
 </p>
 
+
+### AI & ML Undergraduate | Aspiring AI/ML Engineer | Exploring Generative AI & Agentic AI
+
+I'm a final-year B.Tech student in Computer Science Engineering (AI & ML) at JNTUH University College of Engineering Sultanpur. I enjoy building intelligent systems that solve real-world problems using Machine Learning, Deep Learning, and AI-driven technologies.
+
+My interests span across Machine Learning, Generative AI, Agentic AI, MLOps, and Reinforcement Learning. I am passionate about developing practical AI applications and continuously exploring emerging technologies in the AI ecosystem.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -19,14 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khyathi-Priya&layout=compact" />
 </p>
 
-
-### AI & ML Undergraduate | Aspiring AI/ML Engineer | Exploring Generative AI & Agentic AI
-
-I'm a final-year B.Tech student in Computer Science Engineering (AI & ML) at JNTUH University College of Engineering Sultanpur. I enjoy building intelligent systems that solve real-world problems using Machine Learning, Deep Learning, and AI-driven technologies.
-
-My interests span across Machine Learning, Generative AI, Agentic AI, MLOps, and Reinforcement Learning. I am passionate about developing practical AI applications and continuously exploring emerging technologies in the AI ecosystem.
-
----
 
 ## 🎓 Education
 
@@ -51,15 +52,6 @@ JNTUH University College of Engineering Sultanpur
 <p>
 <img src="https://skillicons.dev/icons?i=python,git,github" />
 </p>
-
-**Libraries & Frameworks**
-
-- NumPy
-- Pandas
-- Scikit-Learn
-- Matplotlib
-- OpenCV
-- Streamlit
 
 ### Data Science & Machine Learning
 
