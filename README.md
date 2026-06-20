@@ -13,12 +13,17 @@ Passionate about building AI-powered solutions using Machine Learning, Computer 
 
 ## 👨‍💻 About Me
 
-🎓 Final-year B.Tech student in Computer Science Engineering (AI & ML)
-🏫 JNTUH University College of Engineering Sultanpur
-🤖 Interested in Machine Learning, Generative AI, Agentic AI, and MLOps
-💼 Former Project Trainee at BHEL
-🚀 Building real-world AI applications and intelligent systems
-🌱 Currently learning Reinforcement Learning and advanced AI technologies
+## 👨‍💻 About Me
+
+|    |                                                                         |
+| -- | ----------------------------------------------------------------------- |
+| 🎓 | Final-year B.Tech student in Computer Science Engineering (AI & ML)     |
+| 🏫 | JNTUH University College of Engineering Sultanpur                       |
+| 🤖 | Interested in Machine Learning, Generative AI, Agentic AI, and MLOps    |
+| 💼 | Former Project Trainee at BHEL                                          |
+| 🚀 | Building real-world AI applications and intelligent systems             |
+| 🌱 | Currently exploring Reinforcement Learning and advanced AI technologies |
+
 
 ---
 
