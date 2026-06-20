@@ -11,9 +11,14 @@ Passionate about building AI-powered solutions using Machine Learning, Computer 
   <img src="https://img.shields.io/badge/Streamlit-Deployed-brightgreen" />
 </p>
 
-I'm a final-year B.Tech student in Computer Science Engineering (AI & ML) at JNTUH University College of Engineering Sultanpur. I enjoy building intelligent systems that solve real-world problems using Machine Learning, Deep Learning, and AI-driven technologies.
+## 👨‍💻 About Me
 
-My interests span across Machine Learning, Generative AI, Agentic AI, MLOps, and Reinforcement Learning. I am passionate about developing practical AI applications and continuously exploring emerging technologies in the AI ecosystem.
+🎓 Final-year B.Tech student in Computer Science Engineering (AI & ML)
+🏫 JNTUH University College of Engineering Sultanpur
+🤖 Interested in Machine Learning, Generative AI, Agentic AI, and MLOps
+💼 Former Project Trainee at BHEL
+🚀 Building real-world AI applications and intelligent systems
+🌱 Currently learning Reinforcement Learning and advanced AI technologies
 
 ---
 
