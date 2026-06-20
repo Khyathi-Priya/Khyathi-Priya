@@ -13,7 +13,6 @@ Passionate about building AI-powered solutions using Machine Learning, Computer 
 
 ## 👨‍💻 About Me
 
-|    |                                                                         |
 | -- | ----------------------------------------------------------------------- |
 | 🎓 | Final-year B.Tech student in Computer Science Engineering (AI & ML)     |
 | 🏫 | JNTUH University College of Engineering Sultanpur                       |
