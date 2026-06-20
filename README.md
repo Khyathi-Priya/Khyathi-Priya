@@ -16,8 +16,6 @@ Passionate about building AI-powered solutions using Machine Learning, Computer 
   <img src="https://img.shields.io/badge/Streamlit-Deployed-brightgreen" />
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 |    |                                                                             |
@@ -30,7 +28,6 @@ Passionate about building AI-powered solutions using Machine Learning, Computer 
 | 🌱 | Currently exploring **Reinforcement Learning** and advanced AI technologies |
 | 🎯 | Aspiring **AI/ML Engineer** focused on creating impactful AI solutions      |
 
----
 
 ## 📊 GitHub Stats
 
@@ -66,10 +63,6 @@ JNTUH University College of Engineering Sultanpur
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### Data Science & Machine Learning
