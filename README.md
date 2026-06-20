@@ -59,11 +59,15 @@ JNTUH University College of Engineering Sultanpur
 * Scikit-learn
 * Matplotlib
 * Scipy
-* Statistics and Math
 
 ### Computer Vision
 
 * OpenCV
+
+### Mathematics & Statistics
+
+* Statistical Analysis
+* Probability & Statistics
 
 ### Development & Deployment
 
