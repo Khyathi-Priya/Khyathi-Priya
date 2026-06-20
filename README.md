@@ -13,8 +13,6 @@ Passionate about building AI-powered solutions using Machine Learning, Computer 
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 |    |                                                                         |
 | -- | ----------------------------------------------------------------------- |
 | 🎓 | Final-year B.Tech student in Computer Science Engineering (AI & ML)     |
@@ -23,7 +21,6 @@ Passionate about building AI-powered solutions using Machine Learning, Computer 
 | 💼 | Former Project Trainee at BHEL                                          |
 | 🚀 | Building real-world AI applications and intelligent systems             |
 | 🌱 | Currently exploring Reinforcement Learning and advanced AI technologies |
-
 
 ---
 
