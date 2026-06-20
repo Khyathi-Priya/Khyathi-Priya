@@ -1,4 +1,24 @@
-# Hi, I'm Khyathi Priya Kamireddi 👋
+<h1 align="center">Hi 👋, I'm Khyathi Priya Kamireddi</h1>
+<h3 align="center">AI & ML Undergraduate | Aspiring AI/ML Engineer | Exploring Generative AI & Agentic AI</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue" />
+  <img src="https://img.shields.io/badge/Generative%20AI-Learning-green" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Exploring-orange" />
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-red" />
+  <img src="https://img.shields.io/badge/Streamlit-Deployed-brightgreen" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khyathi-Priya&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khyathi-Priya&layout=compact" />
+</p>
+
 
 ### AI & ML Undergraduate | Aspiring AI/ML Engineer | Exploring Generative AI & Agentic AI
 
@@ -28,12 +48,18 @@ JNTUH University College of Engineering Sultanpur
 
 ## 🛠️ Tech Stack
 
-### Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github" />
+</p>
 
-* Python
-* HTML, CSS, JS
-* Java
-* C
+**Libraries & Frameworks**
+
+- NumPy
+- Pandas
+- Scikit-Learn
+- Matplotlib
+- OpenCV
+- Streamlit
 
 ### Data Science & Machine Learning
 
@@ -96,15 +122,12 @@ Worked on a Predictive Maintenance system using Machine Learning techniques for 
 
 ---
 
-## 🌱 Currently Learning
+## 🔭 Current Focus
 
-* Advanced Machine Learning
-* Generative AI Applications
-* Agentic AI Systems
-* MLOps Fundamentals
-* Devops
-
----
+- Building AI-powered applications
+- Learning Generative AI and Agentic AI
+- Exploring MLOps fundamentals
+- Strengthening Machine Learning expertise
 
 ## 🎯 Career Goal
 
