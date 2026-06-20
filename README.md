@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Khyathi Priya Kamireddi</h1>
-<h3 align="center">AI & ML Undergraduate | Aspiring AI/ML Engineer | Exploring Generative AI & Agentic AI</h3>
 
+<h3 align="center">
+AI & ML Undergraduate | Aspiring AI/ML Engineer | Exploring Generative AI & Agentic AI
+</h3>
+
+<p align="center">
 Passionate about building AI-powered solutions using Machine Learning, Computer Vision, and emerging Generative AI technologies.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Expert-blue" />
@@ -10,6 +15,8 @@ Passionate about building AI-powered solutions using Machine Learning, Computer 
   <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-red" />
   <img src="https://img.shields.io/badge/Streamlit-Deployed-brightgreen" />
 </p>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -23,6 +30,7 @@ Passionate about building AI-powered solutions using Machine Learning, Computer 
 | 🌱 | Currently exploring **Reinforcement Learning** and advanced AI technologies |
 | 🎯 | Aspiring **AI/ML Engineer** focused on creating impactful AI solutions      |
 
+---
 
 ## 📊 GitHub Stats
 
@@ -34,6 +42,7 @@ Passionate about building AI-powered solutions using Machine Learning, Computer 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khyathi-Priya&layout=compact" />
 </p>
 
+---
 
 ## 🎓 Education
 
@@ -57,6 +66,10 @@ JNTUH University College of Engineering Sultanpur
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### Data Science & Machine Learning
@@ -117,10 +130,10 @@ Worked on a Predictive Maintenance system using Machine Learning techniques for 
 
 ## 📜 Certifications
 
-* Introduction to Artificial Intelligence – LinkedIn Learning
-* Introduction to Prompt Engineering for Generative AI – LinkedIn Learning
-* Introduction to Generative AI - Google cloud
-* SQL (Basic) - Hacker rank
+- Introduction to Artificial Intelligence – LinkedIn Learning
+- Introduction to Prompt Engineering for Generative AI – LinkedIn Learning
+- Introduction to Generative AI – Google Cloud
+- SQL (Basic) – HackerRank
 
 ---
 
@@ -130,6 +143,8 @@ Worked on a Predictive Maintenance system using Machine Learning techniques for 
 - Learning Generative AI and Agentic AI
 - Exploring MLOps fundamentals
 - Strengthening Machine Learning expertise
+
+---
 
 ## 🎯 Career Goal
 
