@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Final-year+AI+%26+ML+Student+%F0%9F%A4%96;Building+Agentic+AI+Systems+%F0%9F%9A%80;Machine+Learning+Agentic+AI+Generative+AI+Explorer+%F0%9F%A7%A0;Turning+Data+into+Intelligence+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Final-year+AI+%26+ML+Student+%F0%9F%A4%96;Building+Agentic+AI+Systems+%F0%9F%9A%80;Generative+AI+Explorer+%F0%9F%A7%A0;Turning+Data+into+Intelligence+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 <br/>
 
