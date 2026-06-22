@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Final-year+AI+%26+ML+Engineer+%F0%9F%A4%96;Building+Agentic+AI+Systems+%F0%9F%9A%80;Generative+AI+Explorer+%F0%9F%A7%A0;Turning+Data+into+Intelligence+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Final-year+AI+%26+ML+Student+%F0%9F%A4%96;Building+Agentic+AI+Systems+%F0%9F%9A%80;Machine+Learning+Agentic+AI+Generative+AI+Explorer+%F0%9F%A7%A0;Turning+Data+into+Intelligence+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -168,10 +168,10 @@ Geospatial ML system that predicts and visualizes flood risk zones across India 
 
 | 🏅 Certificate | 🏢 Issuer |
 |---|---|
-| Introduction to Artificial Intelligence | [![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat&logo=linkedin&logoColor=white)](/) |
-| Introduction to Prompt Engineering for Generative AI | [![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat&logo=linkedin&logoColor=white)](/) |
-| Introduction to Generative AI | [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](/) |
-| SQL (Basic) | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](/) |
+| Introduction to Artificial Intelligence | ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat&logo=linkedin&logoColor=white) |
+| Introduction to Prompt Engineering for Generative AI | ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat&logo=linkedin&logoColor=white) |
+| Introduction to Generative AI | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) |
+| SQL (Basic) | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) |
 
 ---
 
