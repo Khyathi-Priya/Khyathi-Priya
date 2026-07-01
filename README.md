@@ -120,7 +120,7 @@ Geospatial ML system that predicts and visualizes flood risk zones across India 
 ---
 
 ### 🌊 Diabetes prediction with AI
-![Domain](https://img.shields.io/badge/Health%20Care-2ECC71?style=flat) ![Type](https://img.shields.io/badge/Type-ML%20System-F7931E?style=flat)
+![Domain](https://img.shields.io/badge/Health%20Care-2ECC71?style=flat) ![Type](https://img.shields.io/badge/Type-Web%20Based%20Project-F7931E?style=flat)
 
 AI based prediction system that is trained with multiple ML classification models and choosed best model to predict whether a person have Diabetes or not based on input features they given to model. 
 
