@@ -1,17 +1,10 @@
 <div align="center">
 
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-  Khyathi Priya Kamireddi
-</h1>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=1&pause=100000&color=6C63FF&center=true&vCenter=true&width=650&height=70&lines=Khyathi+Priya+Kamireddi" alt="Khyathi Priya Kamireddi"/>
 </div>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Final-year+AI+%26+ML+Student+%F0%9F%A4%96;Building+Agentic+AI+Systems+%F0%9F%9A%80;Generative+AI+Explorer+%F0%9F%A7%A0;Turning+Data+into+Intelligence+%F0%9F%92%A1)](https://git.io/typing-svg)
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/khyathi-priya-kamireddi-83144a2b8)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya)
@@ -19,7 +12,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 👩‍💻 About Me
 
@@ -29,7 +22,7 @@
 - 🌱 Currently exploring **Reinforcement Learning** and advanced AI architectures
 - 🎯 Aspiring **AI/ML Engineer** — open to internships, research collaborations, and full-time roles
 
----
+<br>
 
 ## 🎓 Education
 
@@ -39,7 +32,7 @@ JNTUH University College of Engineering Sultanpur
 ![Status](https://img.shields.io/badge/Status-Final%20Year-6C63FF?style=flat)
 ![Specialization](https://img.shields.io/badge/Specialization-AI%20%26%20ML-FF6B6B?style=flat)
 
----
+<br>
 
 ## 💼 Experience
 
@@ -53,9 +46,18 @@ JNTUH University College of Engineering Sultanpur
 ![Focus](https://img.shields.io/badge/Focus-Predictive%20Analytics-F7931E?style=flat)
 ![Type](https://img.shields.io/badge/Type-Industry%20Training-2ECC71?style=flat)
 
----
+<br>
 
 ## 🚀 Featured Projects
+
+---
+
+### 🏡 House Price Prediction &nbsp;<img src="https://img.shields.io/badge/NEW-FF4B4B?style=flat-square" alt="new"/>
+![Domain](https://img.shields.io/badge/Domain-Regression%20Modeling-6C63FF?style=flat) ![Models](https://img.shields.io/badge/Models-11%20Algorithms-2ECC71?style=flat)
+
+An end-to-end regression project that cleans, encodes, and analyzes housing data, then trains and benchmarks **11 regression algorithms** — from Linear/Ridge/Lasso to Random Forest, Gradient Boosting, LightGBM, and CatBoost — auto-selecting the best model by R² Score.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya/House-Price-Prediction)
 
 ---
 
@@ -104,14 +106,14 @@ Geospatial ML system that predicts and visualizes flood risk zones across India 
 
 ---
 
-### 🌊 Diabetes prediction with AI
+### 💉 Diabetes Prediction with AI
 ![Domain](https://img.shields.io/badge/Health%20Care-2ECC71?style=flat) ![Type](https://img.shields.io/badge/Type-Web%20Based%20Project-F7931E?style=flat)
 
-AI based prediction system that is trained with multiple ML classification models and choosed best model to predict whether a person have Diabetes or not based on input features they given to model. 
+AI based prediction system trained with multiple ML classification models, selecting the best model to predict whether a person has Diabetes based on given input features.
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya/Diabetes-Prediction-with-AI)
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -152,7 +154,21 @@ AI based prediction system that is trained with multiple ML classification model
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Khyathi-Priya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6C63FF&icon_color=6C63FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khyathi-Priya&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" width="35%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khyathi-Priya&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khyathi-Priya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B" width="90%"/>
+
+</div>
+<br>
 
 ## 💡 Areas of Interest
 
@@ -163,7 +179,7 @@ AI based prediction system that is trained with multiple ML classification model
 - MLOps
 - Computer Vision
 
----
+<br>
 
 ## 📜 Certifications
 
@@ -174,7 +190,7 @@ AI based prediction system that is trained with multiple ML classification model
 | Introduction to Generative AI | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) |
 | SQL (Basic) | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) |
 
----
+<br>
 
 ## 🔭 Current Focus
 
@@ -183,17 +199,25 @@ AI based prediction system that is trained with multiple ML classification model
 - ⚙️ **MLOps** — model deployment, monitoring, and production-ready ML
 - 🌐 **Generative AI** — LLMs, RAG architectures, and prompt engineering
 
----
+<br>
 
 ## 🎯 Career Goal
 
 Building a career as an **AI/ML Engineer** with deep expertise in **Generative AI** and **Agentic systems** — focused on developing intelligent, autonomous applications that make a meaningful real-world difference.
 
----
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📫 Connect With Me
+
+<div align="center">
 
 *Open to AI/ML internships, research collaborations, and full-time opportunities.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/khyathi-priya-kamireddi-83144a2b8)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
