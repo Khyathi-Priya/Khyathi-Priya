@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Khyathi Priya Kamireddi
 
-### 🚀 AI/ML Engineer | Deep Learning Specialist | Fashion AI Innovator
+### 🚀 AI/ML Engineer | Deep Learning | Agentic and Generative AI
 
 <a href="https://www.linkedin.com/in/khyathi-priya-kamireddi-83144a2b8">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
