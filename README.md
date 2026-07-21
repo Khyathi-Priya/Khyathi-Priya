@@ -1,223 +1,360 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=1&pause=100000&color=6C63FF&center=true&vCenter=true&width=650&height=70&lines=Khyathi+Priya+Kamireddi" alt="Khyathi Priya Kamireddi"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=48&duration=1&pause=100000&color=6C63FF&center=true&vCenter=true&width=650&height=80&lines=Khyathi+Priya+Kamireddi" alt="Khyathi Priya"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+Making+🚀;Building+Intelligent+%26+Autonomous+Systems+🤖;Passionate+about+Generative+AI+%26+MLOps+⚙️" alt="Typing SVG"/>
+
+### 🌟 Turning Ideas into Intelligent Solutions
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/khyathi-priya-kamireddi-83144a2b8)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya)
+[![Email](https://img.shields.io/badge/Email-Contact-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khyathipriyas@gmail.com)
+[![Portfolio Views](https://komarev.com/ghpvc/?username=Khyathi-Priya&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/Khyathi-Priya)
+
 </div>
+
+---
+
+## 🎯 About Me
+
+> **AI/ML Engineer passionate about building autonomous systems and generative AI applications that solve real-world problems.**
+
+- 🎓 **Final-year B.Tech** in Computer Science Engineering (AI & ML) at **JNTUH University College of Engineering**
+- 💼 **Former Project Trainee at BHEL** — Developed production-ready Predictive Maintenance systems
+- 🤖 Specializing in **Agentic AI, Generative AI, Machine Learning & MLOps**
+- 🎯 **9+ AI/ML projects** spanning healthcare, cybersecurity, computer vision & disaster management
+- 🌍 **Open to**: Internships, Research Collaborations & Full-time AI/ML roles
+
+---
+
+## 📊 Quick Stats
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Final-year+AI+%26+ML+Student+%F0%9F%A4%96;Building+Agentic+AI+Systems+%F0%9F%9A%80;Generative+AI+Explorer+%F0%9F%A7%A0;Turning+Data+into+Intelligence+%F0%9F%92%A1)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/khyathi-priya-kamireddi-83144a2b8)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya)
-[![Profile Views](https://komarev.com/ghpvc/?username=Khyathi-Priya&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/Khyathi-Priya)
+| Metric | Value |
+|--------|-------|
+| **Projects** | 9+ AI/ML Applications |
+| **Languages** | Python, Java, SQL, JavaScript |
+| **Specializations** | Agentic AI • Generative AI • Computer Vision |
+| **Total Stars** | 20+ |
+| **Most Used Tech** | PyTorch • TensorFlow • Scikit-learn |
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 👩‍💻 About Me
-
-- 🎓 Final-year B.Tech student in **Computer Science Engineering (AI & ML)** at JNTUH University College of Engineering Sultanpur
-- 💼 Former **Project Trainee at BHEL** — built a real-world Predictive Maintenance system using ML
-- 🤖 Passionate about **Machine Learning, Generative AI, Agentic AI, and MLOps**
-- 🌱 Currently exploring **Reinforcement Learning** and advanced AI architectures
-- 🎯 Aspiring **AI/ML Engineer** — open to internships, research collaborations, and full-time roles
-
-<br>
-
-## 🎓 Education
-
-**B.Tech — Computer Science Engineering (AI & ML)**
-JNTUH University College of Engineering Sultanpur
-
-![Status](https://img.shields.io/badge/Status-Final%20Year-6C63FF?style=flat)
-![Specialization](https://img.shields.io/badge/Specialization-AI%20%26%20ML-FF6B6B?style=flat)
-
-<br>
-
-## 💼 Experience
-
-**Project Trainee — BHEL** *(Bharat Heavy Electricals Limited)*
-
-- Developed a **Predictive Maintenance system** using supervised ML models to forecast industrial equipment failures
-- Built end-to-end data preprocessing pipelines and evaluated multiple ML models
-- Integrated predictive analytics into real maintenance workflows at one of India's largest public sector enterprises
-
-![Domain](https://img.shields.io/badge/Domain-Industrial%20AI-0A66C2?style=flat)
-![Focus](https://img.shields.io/badge/Focus-Predictive%20Analytics-F7931E?style=flat)
-![Type](https://img.shields.io/badge/Type-Industry%20Training-2ECC71?style=flat)
-
-<br>
+---
 
 ## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%">
 
-### 🏡 House Price Prediction &nbsp;<img src="https://img.shields.io/badge/NEW-FF4B4B?style=flat-square" alt="new"/>
-![Domain](https://img.shields.io/badge/Domain-Regression%20Modeling-6C63FF?style=flat) ![Models](https://img.shields.io/badge/Models-11%20Algorithms-2ECC71?style=flat)
+### 🏡 House Price Prediction
+![NEW](https://img.shields.io/badge/NEW-FF4B4B?style=flat-square)
 
-An end-to-end regression project that cleans, encodes, and analyzes housing data, then trains and benchmarks **11 regression algorithms** — from Linear/Ridge/Lasso to Random Forest, Gradient Boosting, LightGBM, and CatBoost — auto-selecting the best model by R² Score.
+**11 Regression Algorithms Benchmarked**
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya/House-Price-Prediction)
+End-to-end ML regression project comparing Linear, Ridge, Lasso, Random Forest, XGBoost, and more for optimal housing price prediction.
 
----
+**Tech**: Scikit-learn • Pandas • NumPy
+- 📊 Data cleaning & feature engineering
+- 🎯 Hyperparameter tuning
+- 📈 Model comparison & evaluation
 
-### 🛡️ Agentic AI-Based Autonomous Cybersecurity System
-![Domain](https://img.shields.io/badge/Domain-Cybersecurity-FF4B4B?style=flat) ![Type](https://img.shields.io/badge/Type-Agentic%20AI-6C63FF?style=flat)
+[![View](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Khyathi-Priya/House-Price-Prediction)
 
-An intelligent system that autonomously monitors, analyzes, and responds to cybersecurity events — reducing manual intervention through AI-driven decision-making pipelines.
+</td>
+<td width="50%">
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya/Agentic-AI-based-AUtonomous-Cyber-Security-System)
+### 🛡️ Agentic AI Cybersecurity
+![Advanced](https://img.shields.io/badge/Advanced-6C63FF?style=flat-square)
 
----
+**Autonomous Threat Detection & Response**
 
-### 🔧 AI-Based Predictive Maintenance System
-![Domain](https://img.shields.io/badge/Domain-Industrial%20AI-0A66C2?style=flat) ![Built At](https://img.shields.io/badge/Built%20@-BHEL-2ECC71?style=flat)
+Intelligent system that autonomously monitors, analyzes, and responds to cybersecurity events with zero manual intervention.
 
-ML-powered system built at BHEL to predict equipment failures before they occur — enabling proactive maintenance and reducing industrial downtime.
+**Tech**: Agentic AI • Python • CICIDS Dataset
+- 🔍 Real-time threat detection
+- 🤖 Autonomous response pipelines
+- 📊 Network traffic analysis
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya/AI-based-Predictive-Maintenance-System-for-Machine-Failure-Detection)
+[![View](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Khyathi-Priya/Agentic-AI-based-AUtonomous-Cyber-Security-System)
 
----
+</td>
+</tr>
 
-### 🚨 PulsePace — AI Emergency Assistance System
-![Domain](https://img.shields.io/badge/Domain-Healthcare%20AI-FF6B6B?style=flat) ![Type](https://img.shields.io/badge/Type-Hackathon%20Project-F7931E?style=flat)
+<tr>
+<td width="50%">
 
-AI-powered emergency platform providing voice-guided first-aid instructions and real-time location sharing to dramatically accelerate emergency response.
+### 🔧 Predictive Maintenance System
+![Industry](https://img.shields.io/badge/Industry%20Project-0A66C2?style=flat-square)
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya/PulsePace-AI-Emergency-Assistance-System)
+**Built at BHEL — Production Grade**
 
----
+ML-powered system predicting equipment failures before they occur, enabling proactive maintenance and reducing industrial downtime.
+
+**Tech**: Scikit-learn • FastAPI • MySQL
+- 🎯 Equipment failure forecasting
+- ⚙️ Data preprocessing pipelines
+- 📊 Model evaluation & optimization
+
+[![View](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Khyathi-Priya/AI-based-Predictive-Maintenance-System-for-Machine-Failure-Detection)
+
+</td>
+<td width="50%">
+
+### 🚨 PulsePace — Emergency AI
+![Healthcare](https://img.shields.io/badge/Healthcare%20AI-FF6B6B?style=flat-square)
+
+**Voice-Guided First Aid & Emergency Response**
+
+AI-powered emergency platform providing real-time first-aid instructions and location sharing to accelerate emergency response.
+
+**Tech**: Python • Geolocation • Voice AI
+- 🎤 Voice-guided instructions
+- 📍 Real-time location sharing
+- ⚡ Rapid emergency dispatch
+
+[![View](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Khyathi-Priya/PulsePace-AI-Emergency-Assistance-System)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🖱️ AI Virtual Mouse
-![Domain](https://img.shields.io/badge/Domain-Computer%20Vision-5C3EE8?style=flat) ![Tech](https://img.shields.io/badge/Tech-OpenCV-5C3EE8?style=flat)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square)
 
-Real-time hand gesture recognition system built with OpenCV that replaces traditional mouse input — enabling fully touchless device control.
+**Hand Gesture Recognition System**
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya/AI-VIRTUAL-MOUSE)
+Real-time touchless device control using hand gesture recognition — no external hardware needed.
+
+**Tech**: OpenCV • MediaPipe • PyAutoGUI
+- ✋ Real-time hand detection
+- 🎯 Gesture recognition (7+ gestures)
+- 🖱️ Mouse cursor control
+
+[![View](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Khyathi-Priya/AI-Virtual-Mouse)
+
+</td>
+<td width="50%">
+
+### 🌊 Flood Risk Detection
+![Geospatial ML](https://img.shields.io/badge/Geospatial%20ML-2ECC71?style=flat-square)
+
+**Disaster Prevention & Early Warnings**
+
+ML system predicting and visualizing flood risk zones across India — supporting disaster preparedness and early warning systems.
+
+**Tech**: Scikit-learn • Geospatial Analysis
+- 🗺️ Flood-prone region identification
+- 📊 Hydrological data analysis
+- 🎯 Risk visualization & mapping
+
+[![View](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Khyathi-Priya/Flood-Risk-detection-in-India)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💉 Diabetes Prediction AI
+![Full-Stack](https://img.shields.io/badge/Full%20Stack-F7931E?style=flat-square)
+
+**End-to-End Healthcare Prediction**
+
+Web-based AI system trained on multiple ML models to predict diabetes with health analytics, history tracking & downloadable reports.
+
+**Tech**: XGBoost • FastAPI • React
+- 🔬 Multi-model ensemble
+- 📊 Patient health analytics
+- 📥 Downloadable medical reports
+
+[![View](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Khyathi-Priya/Diabetes-Prediction-with-AI)
+
+</td>
+<td width="50%">
+
+### 👗 StyleCluster.AI
+![Fashion AI](https://img.shields.io/badge/Fashion%20AI-FF69B4?style=flat-square)
+
+**AI-Powered Fashion Recommendations**
+
+Deep learning-based fashion recommendation engine using feature extraction and clustering for personalized product suggestions.
+
+**Tech**: Deep Learning • Feature Extraction • Clustering
+- 🎨 Image feature extraction
+- 🔗 Similarity clustering
+- 👕 Smart recommendations
+
+[![View](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Khyathi-Priya/styleCluster.AI)
+
+</td>
+</tr>
+</table>
 
 ---
-
-### 🌊 Flood Risk Detection in India
-![Domain](https://img.shields.io/badge/Domain-Disaster%20Management-2ECC71?style=flat) ![Type](https://img.shields.io/badge/Type-ML%20System-F7931E?style=flat)
-
-Geospatial ML system that predicts and visualizes flood risk zones across India — supporting early warning systems and disaster preparedness planning.
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya/Flood-Risk-detection-in-India)
-
----
-
-### 💉 Diabetes Prediction with AI
-![Domain](https://img.shields.io/badge/Health%20Care-2ECC71?style=flat) ![Type](https://img.shields.io/badge/Type-Web%20Based%20Project-F7931E?style=flat)
-
-AI based prediction system trained with multiple ML classification models, selecting the best model to predict whether a person has Diabetes based on given input features.
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya/Diabetes-Prediction-with-AI)
-
-<br>
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**Frameworks & Databases**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**ML & Data Science**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+### 🤖 AI & ML Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-00A0D2?style=for-the-badge&logo=python&logoColor=white)
 
-**Computer Vision & AI**
-
+### 📊 Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6C63FF?style=for-the-badge)
 
-**Deployment & Tools**
-
+### 🚀 Deployment & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
+### 🎯 Specializations
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6C63FF?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-00A0D2?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge)
 
-## 📊 GitHub Stats
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khyathi-Priya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6C63FF&icon_color=6C63FF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khyathi-Priya&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Khyathi-Priya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6C63FF&icon_color=6C63FF" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khyathi-Priya&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" width="48%" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khyathi-Priya&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khyathi-Priya&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B" width="70%" alt="Contribution Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khyathi-Priya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khyathi-Priya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B" width="90%" alt="Activity Graph"/>
 
 </div>
-<br>
 
-## 💡 Areas of Interest
+---
 
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Agentic AI
-- MLOps
-- Computer Vision
+## 🎓 Education & Experience
 
-<br>
+### 🏫 B.Tech — Computer Science Engineering (AI & ML)
+**JNTUH University College of Engineering Sultanpur**
 
-## 📜 Certifications
+![Status](https://img.shields.io/badge/Status-Final%20Year-6C63FF?style=flat)
+![Specialization](https://img.shields.io/badge/Specialization-AI%20%26%20ML-FF6B6B?style=flat)
+![University](https://img.shields.io/badge/University-JNTUH-2ECC71?style=flat)
 
-| 🏅 Certificate | 🏢 Issuer |
-|---|---|
-| Introduction to Artificial Intelligence | ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat&logo=linkedin&logoColor=white) |
-| Introduction to Prompt Engineering for Generative AI | ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat&logo=linkedin&logoColor=white) |
-| Introduction to Generative AI | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) |
-| SQL (Basic) | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) |
+### 💼 Project Trainee — BHEL
+**Bharat Heavy Electricals Limited** *(India's Premier PSU)*
 
-<br>
+- Developed end-to-end **Predictive Maintenance system** for industrial equipment failure forecasting
+- Engineered data preprocessing pipelines handling real production data
+- Evaluated and optimized multiple supervised ML models for deployment
+- Integrated predictive analytics into active maintenance workflows
 
-## 🔭 Current Focus
+![Domain](https://img.shields.io/badge/Domain-Industrial%20AI-0A66C2?style=flat)
+![Focus](https://img.shields.io/badge/Focus-Predictive%20Analytics-F7931E?style=flat)
+![Impact](https://img.shields.io/badge/Impact-Production%20Grade-2ECC71?style=flat)
 
-- 🤖 **Agentic AI** — multi-agent systems and autonomous decision pipelines
-- 🧠 **Reinforcement Learning** — reward-based learning and policy optimization
-- ⚙️ **MLOps** — model deployment, monitoring, and production-ready ML
-- 🌐 **Generative AI** — LLMs, RAG architectures, and prompt engineering
+---
 
-<br>
+## 📜 Certifications & Achievements
 
-## 🎯 Career Goal
+| 🏆 Certification | 📚 Issuer | 🎯 Focus |
+|---|---|---|
+| Introduction to Artificial Intelligence | ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin) | Core AI Concepts |
+| Introduction to Prompt Engineering for Generative AI | ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=flat-square&logo=linkedin) | Generative AI |
+| Introduction to Generative AI | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud) | LLMs & GAI |
+| SQL (Basic) | ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank) | Database Skills |
 
-Building a career as an **AI/ML Engineer** with deep expertise in **Generative AI** and **Agentic systems** — focused on developing intelligent, autonomous applications that make a meaningful real-world difference.
+---
 
-<br>
+## 🎯 Current Focus
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<table>
+<tr>
+<td width="25%" align="center">
 
-## 📫 Connect With Me
+**🤖 Agentic AI**
+Multi-agent systems & autonomous decision pipelines
+
+</td>
+<td width="25%" align="center">
+
+**🧠 Reinforcement Learning**
+Reward-based learning & policy optimization
+
+</td>
+<td width="25%" align="center">
+
+**⚙️ MLOps**
+Model deployment, monitoring & production ML
+
+</td>
+<td width="25%" align="center">
+
+**🌐 Generative AI**
+LLMs, RAG architectures & prompt engineering
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Why I Build
+
+*"Artificial Intelligence is not a distant future—it's today. I'm passionate about building intelligent systems that solve real-world problems, from disaster prevention to autonomous cybersecurity. Every project is an opportunity to make AI more accessible and impactful."*
+
+### Areas of Expertise
+- ✅ Machine Learning & Deep Learning
+- ✅ Agentic AI & Autonomous Systems
+- ✅ Generative AI & LLMs
+- ✅ Computer Vision
+- ✅ MLOps & Production Deployment
+- ✅ Data Engineering & Analytics
+
+---
+
+## 🚀 Career Roadmap
+
+1. **Current Phase** → Mastering Agentic AI & LLM applications
+2. **Next** → Contributing to open-source AI projects
+3. **Goal** → Full-time AI/ML Engineer role building production systems
+4. **Vision** → Lead research in autonomous intelligent systems
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
 
-*Open to AI/ML internships, research collaborations, and full-time opportunities.*
+**I'm always open to:**
+- 💼 AI/ML Internship opportunities
+- 🤝 Research collaborations
+- 👨‍💼 Full-time AI/ML Engineer roles
+- 🌟 Exciting project partnerships
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/khyathi-priya-kamireddi-83144a2b8)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya)
+### Get In Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/khyathi-priya-kamireddi-83144a2b8)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khyathi-Priya)
+[![Gmail](https://img.shields.io/badge/Gmail-Send%20Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khyathipriyas@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff" width="100%"/>
 
 </div>
