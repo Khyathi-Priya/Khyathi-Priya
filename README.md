@@ -331,10 +331,10 @@ AI-powered emergency platform providing voice-guided first-aid and real-time loc
 <div align="center">
 
 ### I'm always open to:
-- 💼 **AI/ML Internship opportunities**
-- 🤝 **Research collaborations**
-- 👨‍💼 **Full-time AI/ML Engineer roles**
-- 🌟 **Exciting project partnerships**
+ 💼 **AI/ML Internship opportunities**
+ 🤝 **Research collaborations**
+ 👨‍💼 **Full-time AI/ML Engineer roles**
+ 🌟 **Exciting project partnerships**
 
 ### Get In Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khyathi-priya-kamireddi-83144a2b8)
